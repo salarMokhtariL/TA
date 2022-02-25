@@ -1,5 +1,6 @@
 # Teaching Assistant
 University teaching files
+![image](https://user-images.githubusercontent.com/75142232/155765408-c6704888-7c48-4f3f-a084-c97dad847179.png)
 
 ### This directory contains
 ---
