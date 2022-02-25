@@ -1,4 +1,4 @@
-# TA
+# Teaching Assistant
 University teaching files
 
 ### This directory contains
