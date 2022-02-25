@@ -12,3 +12,9 @@ title : Salar Mokhtari laleh
 ## Class notifications and files taught in the class are realize here
 
 
+
+--- 
+# Spring 2022 
+## Discrete mathematics [LINK](https://salarmokhtaril.github.io/TA/DM)
+
+---
