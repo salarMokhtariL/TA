@@ -16,5 +16,5 @@ title : Salar Mokhtari laleh
 --- 
 # Spring 2022 
 ## Discrete mathematics [LINK](https://salarmokhtaril.github.io/TA/DM)
-
+## Linear algebra and it's applications [LINK](https://salarmokhtaril.github.io/TA/LA)
 ---
