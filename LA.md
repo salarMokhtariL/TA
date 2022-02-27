@@ -18,3 +18,7 @@ Registration for the Quera class is mandatory because you must submit the answer
 
 ### Note 4 : 
 The teaching files of the first session on the subject of class generalities and the introduction of Python and the data structure in Python were uploaded to the github
+
+
+### Note 5 :
+The first series of exercises were uploaded to GitHub and Quera
