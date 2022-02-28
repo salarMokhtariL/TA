@@ -18,3 +18,10 @@ Registration for the Quera class is mandatory because you must submit the answer
 
 ### Note 4 : 
 The first series of exercises were uploaded to GitHub and Quera 
+
+
+### Note 5: 
+Please correct in the first exercise in question 7 part 7
+
+
+![Correction](https://user-images.githubusercontent.com/75142232/155934575-63868781-2925-4166-9a42-7e2264853468.png)
