@@ -1,7 +1,6 @@
 # Teaching Assistant
 University teaching files
-![image](https://user-images.githubusercontent.com/75142232/155765408-c6704888-7c48-4f3f-a084-c97dad847179.png)
-
+![Pink And Green Motivation Quote LinkedIn Banner (3)](https://user-images.githubusercontent.com/75142232/156870268-18f04ed3-b5e6-4c52-be36-a4522d7285da.png)
 ### This directory contains
 ---
   #### Spring 2022 : 
