@@ -1,7 +1,7 @@
 # Discrete mathematics
 
 
-![Red White Abstract Painting Youtube Channel Art (1)](https://user-images.githubusercontent.com/75142232/156607437-f0e966bf-0623-41c4-9499-9a78c39b8eec.png)
+![Pink And Green Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/75142232/156870132-ed853a0c-0799-40aa-9b0a-4b74a314b0e5.png)
 
 
 File related to teaching linear algebra and its application
