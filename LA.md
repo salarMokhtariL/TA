@@ -24,3 +24,8 @@ The teaching files of the first session on the subject of class generalities and
 
 ### Note 5 :
 The first series of exercises were uploaded to GitHub and Quera
+
+
+### Note 6 : 
+quiz 1 12/21 : 12 noon
+![Gray Simple Quize Time Instagram Story (1)](https://user-images.githubusercontent.com/75142232/156897826-e3010e58-6560-49a5-9376-2c1ed347a76b.png)
