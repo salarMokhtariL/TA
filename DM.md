@@ -3,6 +3,8 @@ title: Discrete mathematics Sp2022
 ---
 
 # Discrete mathematics
+![Pink And Green Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/75142232/156870132-ed853a0c-0799-40aa-9b0a-4b74a314b0e5.png)
+
 ## Discrete math files are uploaded here
 ---
 
