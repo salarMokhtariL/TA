@@ -15,7 +15,7 @@ logo : https://mpng.subpng.com/20180724/lps/kisspng-computer-icons-information-t
 
 
 --- 
-# Spring 2022 
+![Red and Blue Education LinkedIn Banner](https://user-images.githubusercontent.com/75142232/156875296-c7f25b16-06f6-414f-9c45-8449c4a6ae67.png)
 ## Discrete mathematics [LINK](https://salarmokhtaril.github.io/TA/DM)
 ## Linear algebra and it's applications [LINK](https://salarmokhtaril.github.io/TA/LA)
 ---
