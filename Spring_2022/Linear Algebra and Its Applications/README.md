@@ -1,6 +1,6 @@
 # Linear-Algebra
 
-![Pink And Green Motivation Quote LinkedIn Banner (1)](https://user-images.githubusercontent.com/75142232/156870143-fa3f03d1-d23c-469e-81a2-0d8b5983bd23.png)
+![Machine Learning spring 2022](https://user-images.githubusercontent.com/75142232/160606198-3152436f-f7e8-4a89-ae8c-d7230206b468.png)
 
 
 
