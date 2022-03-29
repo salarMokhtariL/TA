@@ -1,7 +1,7 @@
 # Discrete mathematics
 
 
-![Pink And Green Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/75142232/156870132-ed853a0c-0799-40aa-9b0a-4b74a314b0e5.png)
+![Machine Learning spring 2022 (1)](https://user-images.githubusercontent.com/75142232/160606004-5dfacbc0-c3f6-40e0-8d34-e49019b51318.png)
 
 
 File related to teaching linear algebra and its application
