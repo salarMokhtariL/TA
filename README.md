@@ -1,4 +1,4 @@
-# Teaching Assistant
+# Teaching Assistant (TA)
 ![Pink And Green Motivation Quote LinkedIn Banner (3)](https://user-images.githubusercontent.com/75142232/156870268-18f04ed3-b5e6-4c52-be36-a4522d7285da.png)
 ### This directory contains
 ---
